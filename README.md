@@ -15,6 +15,10 @@ subword.py # Script pour effectuer le sous-motage des fichiers source et cible
 # Outils requis
 - Python 3.
 - Bibliothèque SentencePiece
+- OPENNMT 
+- KAGGLE
+- Bibliothèque Pandas
+- Bibliothèque Numpy
 ## Contribuer   
 Nous pouvons travailler ensemble pour faire avancer ce projet. Si vous avez des problèmes, des idées d'implémentations ou des suggestions, n'hésitez pas à ouvrir une issue. Améliorez et faites avancer le projet !
 Envoyer un email à farancoulibaly314@gmail.com ou hadjaratamaiga01@gmail.com  pour plus d'informations.
