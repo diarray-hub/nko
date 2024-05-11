@@ -19,6 +19,6 @@ Le document Scripts contient plusieurs scripts utilisés dans le cadre du projet
 - KAGGLE (comme environement de developement)
 - Bibliothèque Pandas
 - Bibliothèque Numpy
-## Contributeur   
+## Contribution   
 Nous pouvons travailler ensemble pour faire avancer ce projet. Si vous avez des problèmes, des idées d'implémentations ou des suggestions, n'hésitez pas à ouvrir une issue. Améliorez et faites avancer le projet !
 Envoyer un email à farancoulibaly314@gmail.com ou hadjaratamaiga01@gmail.com  pour plus d'informations.
